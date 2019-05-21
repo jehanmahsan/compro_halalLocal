@@ -166,7 +166,7 @@ table{border-collapse:collapse;border-spacing:0;}
 .slider-left h3{
 	font-size:4em;
 	color:#000;
-	background:#fff;
+	background:;
 	font-family: "Century Gothic";
 	text-transform:uppercase;
 	margin-bottom:10px;
@@ -177,7 +177,7 @@ table{border-collapse:collapse;border-spacing:0;}
 .slider-left h4{
 	font-size:4em;
 	color:#000;
-	background:#fff;
+	background:;
 	font-family: "Century Gothic";
 	text-transform:uppercase;
 	font-weight:600;
@@ -194,7 +194,7 @@ p.top{
 	font-size:1.7em;
 	line-height:1.5em;
 	font-family: "Century Gothic";
-	background:#414146;
+	background:#7f7f7f;
 	text-align:left;
 	padding:0px 10px;
 	width:68%;
@@ -205,7 +205,7 @@ p.middle{
 	font-size:1.7em;
 	line-height:1.5em;
 	font-family: "Century Gothic";
-	background:#414146;
+	background:#7f7f7f;
 	text-align:left;
 	padding:0px 10px;
 	width:64%;
@@ -216,7 +216,7 @@ p.bottom{
 	font-size:1.7em;
 	line-height:1.5em;
 	font-family: "Century Gothic";
-	background:#414146;
+	background:#7f7f7f;
 	text-align:left;
 	padding:0px 10px;
 	width:56%;
